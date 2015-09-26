@@ -1,9 +1,6 @@
 package com.adopter.SurveyResponseLoader;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
